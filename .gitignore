@@ -11,9 +11,4 @@ Cargo.lock
 
 # Flamegraph profiles
 flamegraph.svg
-
-# IntelliJ
-.idea/
-
-# Emacs
-*~
+3-lending/LendingDApp/node_modules
